@@ -1,0 +1,16 @@
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.exe
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.deps.json
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.runtimeconfig.json
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.runtimeconfig.dev.json
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.dll
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\ref\curso.dll
+C:\Users\Elisvaldo\curso\bin\Debug\net5.0\curso.pdb
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.csprojAssemblyReference.cache
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.AssemblyInfoInputs.cache
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.AssemblyInfo.cs
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.csproj.CoreCompileInputs.cache
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.dll
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\ref\curso.dll
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.pdb
+C:\Users\Elisvaldo\curso\obj\Debug\net5.0\curso.genruntimeconfig.cache
